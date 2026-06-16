@@ -42,3 +42,7 @@ In this challenge, you'll get hands-on experience and clone a YouTube page using
 ## Legal notes
 
 This project is for educational purposes only. The embedded video is third-party content hosted on YouTube; respect copyright and platform terms of use when redistributing.
+
+![Screenshot](/img/yt_clone_demo.png)
+
+[LICENSE](/LICENSE)
